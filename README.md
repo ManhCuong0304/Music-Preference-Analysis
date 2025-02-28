@@ -18,6 +18,8 @@ I collected data for:
 -The original data file contains only three important pieces of data for the analysis: **The position** of the song, **Song name**, and **Artist name**.
 Because it is from a third-party website, there might be some incorrect data. However, I compared two weeks of data between Apple Music and Top Charts, and the data appears to be correct.
 
--There may be bias in the data since not all listeners use this app. Additionally, Apple Music requires a paid subscription to listen, so the results would primarily reflect iPhone users.
+-There may be bias in the data since not all listeners use this app. Additionally, Apple Music requires a paid subscription to listen, so the results would primarily reflect iPhone paid-users.
 
 -The data is public; therefore, licensing is not an issue.
+
+-Although the listeners on Apple Music are niche and bias by paid-users only. These audiences would have higher chance to spend for albums, concert tickets if the artists success in this platforms.
