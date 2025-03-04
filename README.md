@@ -39,5 +39,6 @@ Because it is from a third-party website, there might be some incorrect data. Ho
 
 
 Appendix
-https://www.statista.com/statistics/1255930/vietnam-leading-apps-for-music-streaming/
+
+https://www.decisionlab.co/blog/vietnam-music-streaming-industry-q1-2024
 https://support.spotify.com/us/artists/article/how-we-count-streams/
