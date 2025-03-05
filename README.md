@@ -52,7 +52,19 @@ Because it is from a third-party website, there might be some incorrect data. Ho
 -There are some errors in the downloaded data from Apple Music and Spotify, and the scraped data from Zing MP3.
 ### 1. Data problems
 
-#### a.
+#### a. Apple Music & Spotify
+
+-The files, after being downloaded, are divided by multiple weeks and need to be combined into a single file for a cohesive analysis.
+
+-Because the Vietnamese language includes diacritical marks in its vowels, song and artist names can be difficult to recognize.
+
+-Artist names being combined into a single cell is also an issue.
+
+-There is no Genres column, which is a key variable for answering the research questions.
+
+-Although there is a Source File column that indicates the date, the values in this column combine the year and week, so they need to be reformatted.
+
+#### b. Zing MP3
 
 ## Appendices
 
