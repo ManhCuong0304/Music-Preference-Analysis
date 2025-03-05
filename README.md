@@ -49,7 +49,10 @@ Because it is from a third-party website, there might be some incorrect data. Ho
 -Zing MP3 is the oldest music website/app operating in Vietnam, which has allowed it to accumulate a large user base. Because of this, the data from this platform provides valuable insights and makes a significant contribution to the analysis.
 
 ## Data process
--There are some errors in the downloaded data from Apple Music and Spotify, the scraped data for Zing MP3  
+-There are some errors in the downloaded data from Apple Music and Spotify, and the scraped data from Zing MP3.
+### 1. Data problems
+
+#### a.
 
 ## Appendices
 
