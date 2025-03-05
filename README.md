@@ -11,7 +11,7 @@ A new talent music artist wants to determine whether their music genre appeals t
 To obtain data for the analysis, I decided to collect weekly leaderboard data from three major music platforms based on Decision Lab statistics (2024): Apple Music, Spotify, and Zing MP3. YouTube Music is also a strong contender, but the website does not provide an option for Vietnamese data, making it unsuitable for this analysis.
 ### Data origin
 I collected data for:
-1. Apple Music from: https://www.top-charts.com/songs/all-genres/vietnam/apple-music
+### 1. Apple Music from: https://www.top-charts.com/songs/all-genres/vietnam/apple-music
 
 -Top Charts is a third-party website that stores weekly data for Apple Music. Since the official Apple Music website only displays the current music leaderboard, this website serves as the second most credible source for historical data. Since there are multiple weeks of data, I used an automation script via ChatGPT to automatically download the files.
 
@@ -24,7 +24,7 @@ Because it is from a third-party website, there might be some incorrect data. Ho
 
 -Although the listeners on Apple Music are niche and bias by paid-users only. These audiences would have higher chance to spend for albums, concert tickets if the artists success in this platforms. Because of that reason, it is worth to put this data in the analysis.
 
-2. Spotify from: https://charts.spotify.com/charts/overview/global
+### 2. Spotify from: https://charts.spotify.com/charts/overview/global
 
 -This data is a from Spotify official website. Since there are multiple weeks of data, I used an automation script via ChatGPT to automatically download the files.
 
@@ -36,7 +36,7 @@ Because it is from a third-party website, there might be some incorrect data. Ho
 
 -Spotify has been attracting a growing number of younger users in recent years. While it has yet to surpass other major platforms in total users, its increasing popularity makes it a valuable addition to the analysis.
 
-3. Zing MP3 from: https://zingmp3.vn/zing-chart-tuan/Bai-hat-Viet-Nam/IWZ9Z08I.html
+### 3. Zing MP3 from: https://zingmp3.vn/zing-chart-tuan/Bai-hat-Viet-Nam/IWZ9Z08I.html
 
 -This data is from Zing MP3's official website. However, since there is no official download option, I used a scraping script via ChatGPT to automate the data collection. While web scraping can sometimes raise ethical concerns, my approach was strictly for research and analysis purposes, ensuring that the data was used responsibly without violating any terms of service. Additionally, the data I collected is publicly accessible on the website, meaning I did not bypass any security measures or access restricted information. 
 
