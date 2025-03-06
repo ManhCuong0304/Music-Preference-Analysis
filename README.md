@@ -74,7 +74,7 @@ Because it is from a third-party website, there might be some incorrect data. Ho
 
 -There is a **Week** column that indicates the date, but it is wrong and need to be reformatted.
 
-### Solutions
+### 2. Solutions
 
 #### a. Apple Music & Spotify
 
