@@ -82,6 +82,7 @@ Because it is from a third-party website, there might be some incorrect data. Ho
 
 -Used a script from ChatGPT to merge all song data files into a single file.
 
+
 **Fixing Encoding Issues in Artist Names:**
 
 -Encountered encoding problems that caused artist names to be broken.
@@ -90,17 +91,20 @@ Because it is from a third-party website, there might be some incorrect data. Ho
 
 -De-duplicated the names and converted them back to UTF-8 encoding.
 
+
 **Splitting Artist Names:**
 
 -Used the =TEXTSPLIT() function in Excel to separate artist names into multiple columns.
 
 -Named the first column "1st Artist", followed by additional artist columns as needed.
 
+
 **Fetching Artist Genres via Spotify API:**
 
 -Used the "1st Artist" column to query Spotify’s API for genre information.
 
 -Retrieved genre data and copied it into the second sheet of the Excel file.
+
 
 **Processing Source File and Weekly Dates:**
 
@@ -109,6 +113,7 @@ Because it is from a third-party website, there might be some incorrect data. Ho
 -De-duplicated the column to remove redundant entries.
 
 -Manually entered the starting date and used = (Previous Cell) + 7 to auto-fill weekly dates.
+
 
 ## Appendices
 
