@@ -51,7 +51,7 @@ Because it is from a third-party website, there might be some incorrect data. Ho
 ## Data process
 -There are some errors in the downloaded data from Apple Music and Spotify, and the scraped data from Zing MP3.
 ### 1. Data problems
-![#f03c15](hi) `#f03c15`
+
 #### a. Apple Music & Spotify
 
 -The files, after being downloaded, are divided by multiple weeks and need to be combined into a single file for a cohesive analysis.
@@ -82,6 +82,7 @@ Because it is from a third-party website, there might be some incorrect data. Ho
 
 -Used a script from ChatGPT to merge all song data files into a single file.
 
+=>This solution works perfectly.
 
 #### a.2. Fixing Encoding Issues in Artist Names:**
 
@@ -91,13 +92,15 @@ Because it is from a third-party website, there might be some incorrect data. Ho
 
 -De-duplicated the names and converted them back to UTF-8 encoding.
 
+=>This solution is not fully optimal because some Names are missing vowels. However, it remains the best solution so far.
 
 #### a.3. Splitting Artist Names:
 
--Used the =TEXTSPLIT() function in Excel to separate artist names into multiple columns.
+-Used the "=TEXTSPLIT()" function in Excel to separate artist names into multiple columns.
 
 -Named the first column "1st Artist", followed by additional artist columns as needed.
 
+=>This solution works perfectly.
 
 #### a.4. Fetching Artist Genres via Spotify API:
 
@@ -105,6 +108,9 @@ Because it is from a third-party website, there might be some incorrect data. Ho
 
 -Retrieved genre data and copied it into the second sheet of the Excel file.
 
+-Filled in missing data for some artists and adjusted the results to align with the Spotify API.
+
+=>This solution may introduce bias during the analysis phase because Spotify appears to label genres to fit specific playlists. Therefore, I had to generalize subgenres into macrogenres. Additionally, artists can have multiple genres across their careers, and some songs may not align with their usual style, which can create inconsistencies between a specific song and the labeled genres..
 
 #### a.5. Processing Source File and Weekly Dates:
 
@@ -112,9 +118,9 @@ Because it is from a third-party website, there might be some incorrect data. Ho
 
 -De-duplicated the column to remove redundant entries.
 
--Manually entered the starting date and used = (Previous Cell) + 7 to auto-fill weekly dates.
+-Manually entered the starting date and used "= (Previous Cell) + 7" to auto-fill weekly dates.
 
-
+=>This solution works perfectly.
 ## Appendices
 
 https://www.decisionlab.co/blog/vietnam-music-streaming-industry-q1-2024
