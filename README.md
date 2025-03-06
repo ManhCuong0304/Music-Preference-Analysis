@@ -58,13 +58,46 @@ Because it is from a third-party website, there might be some incorrect data. Ho
 
 -Because the Vietnamese language includes diacritical marks in its vowels, song and artist names can be difficult to recognize.
 
--Artist names being combined into a single cell is also an issue.
+-Artist names being combined into a single cell.
 
 -There is no Genres column, which is a key variable for answering the research questions.
 
--Although there is a Source File column that indicates the date, the values in this column combine the year and week, so they need to be reformatted.
+-Although there is a **Source File** column that indicates the date, the values in this column combine the year and week, so they need to be reformatted.
 
 #### b. Zing MP3
+
+-There is a major flaws in the script that cause the file to miss multiple weeks.
+
+-Artist names being combined into a single cell.
+
+-There is no Genres column, which is a key variable for answering the research questions.
+
+-There is a **Week** column that indicates the date, but it is wrong and need to be reformatted.
+
+### Solutions
+
+#### a. Apple Music & Spotify
+
+Merging Files:
+-Used a script from ChatGPT to merge all song data files into a single file.
+
+Fixing Encoding Issues in Artist Names:
+-Encountered encoding problems that caused artist names to be broken.
+-Extracted all artist names into a text file.
+-De-duplicated the names and converted them back to UTF-8 encoding.
+
+Splitting Artist Names:
+-Used the =TEXTSPLIT() function in Excel to separate artist names into multiple columns.
+-Named the first column "1st Artist", followed by additional artist columns as needed.
+
+Fetching Artist Genres via Spotify API:
+-Used the "1st Artist" column to query Spotify’s API for genre information.
+-Retrieved genre data and copied it into the second sheet of the Excel file.
+
+Processing Source File and Weekly Dates:
+-Extracted the "Source File" column to the third sheet.
+-De-duplicated the column to remove redundant entries.
+-Manually entered the starting date and used = (Previous Cell) + 7 to auto-fill weekly dates.
 
 ## Appendices
 
