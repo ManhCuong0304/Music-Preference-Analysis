@@ -1,10 +1,9 @@
 # Data Analysis Project: Vietnamese Music Preference in the last decade
 ## Introduction
-### Project Objectives:
-A new talent music artist wants to determine whether their music genre appeals to Vietnamese listeners and identify suitable, well-known artists within the same genre for collaboration on their debut song.
-### Therefore, the goals of the project are: 
+A new talent music artist wants to determine whether their music genre appeals to Vietnamese listeners and identify suitable, well-known artists within the same genre for collaboration on their debut album. The Analysis will help that artist to understand the overall listener demographic, the best candidate to invite for the collaboration, what platform that the art 
+### Project Objectives: 
 1. To understand the music preference of Vietnamese. 
-2. Find the artist with the most dominance appearance in the top 100, 200 chart from all available platforms. 
+2. Find the artist with the most dominance appearance in the top 100, 200 chart from all available platforms. From that find the suitable artist for collaboration.
 3. The song that stay in the first position the longest.
 
 ## Data preparation
@@ -124,6 +123,9 @@ Because it is from a third-party website, there might be some incorrect data. Ho
 
 #### b. Zing MP3
 
+-Mannually add the missing weeks.
+
+=>Although this took quite some time, the solution works perfectly.
 
 ## Appendices
 
