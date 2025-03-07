@@ -121,6 +121,10 @@ Because it is from a third-party website, there might be some incorrect data. Ho
 -Manually entered the starting date and used "= (Previous Cell) + 7" to auto-fill weekly dates.
 
 =>This solution works perfectly.
+
+#### b. Zing MP3
+
+
 ## Appendices
 
 https://www.decisionlab.co/blog/vietnam-music-streaming-industry-q1-2024
