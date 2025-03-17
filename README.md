@@ -37,4 +37,4 @@ Add-in data: 1st Artist, 2nd Artist, etc, Genres, Date, Solo vs Featuring, Vietn
 
 -Sơn Tùng M-TP is undoubtly the "King of V-pop", because he is the Most Dominant Artist in this platform with 26 times in the First position, he achieved the First position with 7 different songs, "Chúng ta của hiện tại" and "Đừng làm trái tim anh đau" were the 2 hits with 7 times in the No.1 song, and "Chúng ta của hiện tại" also stayed relevant for 194 weeks.
 
--Even though having multiple hits, the Most Dominant Song was not belong to Sơn Tùng M-TP, "Từng Quen" from Wren Evans is the Most Dominant Song with 15 times in the 1st Rank. This is an impressive feat for a young artist like him. Maybe because of this feat, he and tlinh both each got a collaborative song with Apple
+-Even though having multiple hits, the Most Dominant Song was not belong to Sơn Tùng M-TP, "Từng Quen" from Wren Evans is the Most Dominant Song with 15 times in the 1st Rank. This is an impressive feat for a young artist like him. Maybe because of this feat, he and tlinh both each got a collaborative song with Apple: "Cứu lấy âm nhạc" and "Đừng làm nó phức tạp". 
