@@ -29,20 +29,38 @@ Add-in data: 1st Artist, 2nd Artist, etc, Genres, Date, Solo vs Featuring, Vietn
 
 ### a.2. Overall Analysis
 
-Overall, on the Apple Music platform, Vietnamese listeners have gradually shifted their preference from US-UK pop to V-pop. As a result, music by Vietnamese artists has appeared more frequently in the Weekly Rank Chart since 2021.
+-Overall, on the Apple Music platform, Vietnamese listeners have gradually shifted their preference from US-UK pop to V-pop. As a result, music by Vietnamese artists has appeared more frequently in the Weekly Rank Chart since 2021.
 
-Sơn Tùng M-TP is undoubtedly the "King of V-pop" as he is the Most Dominant Artist on this platform, reaching the First position 26 times. He achieved this with seven different songs, with Chúng ta của hiện tại and Đừng làm trái tim anh đau being the two biggest hits, each reaching No.1 seven times. Additionally, Chúng ta của hiện tại stayed relevant for 194 weeks.
+-Sơn Tùng M-TP is undoubtedly the "King of V-pop" as he is the Most Dominant Artist on this platform, reaching the First position 26 times. He achieved this with seven different songs, with Chúng ta của hiện tại and Đừng làm trái tim anh đau being the two biggest hits, each reaching No.1 seven times. Additionally, Chúng ta của hiện tại stayed relevant for 194 weeks.
 
-Even though he has multiple hits, the Most Dominant Song does not belong to Sơn Tùng M-TP. Từng Quen by Wren Evans holds this title, ranking 1st for 15 weeks—an impressive feat for a young artist like him. Perhaps because of this success, both he and tlinh secured collaborations with Apple: "[Cứu lấy âm nhạc](https://www.youtube.com/watch?v=3K6PRfAp6O4)" and "[đừng làm nó phức tạp](https://www.youtube.com/watch?v=k2oCfQ5QOIk)".  It seems that Apple wanted to position itself as a young and energetic brand, as they actively promoted these two music videos. The Like-to-View ratio for Wren's song is only 0.11%, indicating that while the video was not highly engaging, it was seen by a large audience through advertising.
+-Even though he has multiple hits, the Most Dominant Song does not belong to Sơn Tùng M-TP. Từng Quen by Wren Evans holds this title, ranking 1st for 15 weeks—an impressive feat for a young artist like him. Perhaps because of this success, both he and tlinh secured collaborations with Apple: "[Cứu lấy âm nhạc](https://www.youtube.com/watch?v=3K6PRfAp6O4)" and "[đừng làm nó phức tạp](https://www.youtube.com/watch?v=k2oCfQ5QOIk)".  It seems that Apple wanted to position itself as a young and energetic brand, as they actively promoted these two music videos. The Like-to-View ratio for Wren's song is only 0.11%, indicating that while the video was not highly engaging, it was seen by a large audience through advertising.
 
-To identify the perfect candidate for collaboration, an individual analysis is required. Among the top five artists in the Most Dominant Artists chart, three stand out as potential candidates. Sơn Tùng M-TP is primarily known for his solo songs, with his only collaboration being with a foreign artist, while Mono has had just one song reach the top. Therefore, Wren Evans, tlinh, and Đen have been selected for individual analysis.
+-To identify the perfect candidate for collaboration, an individual analysis is required. Among the top five artists in the Most Dominant Artists chart, three stand out as potential candidates. Sơn Tùng M-TP is primarily known for his solo songs, with his only collaboration being with a foreign artist, while Mono has had just one song reach the top. Therefore, Wren Evans, tlinh, and Đen have been selected for individual analysis.
 
-### b.1. Individual Analysis Visualization
+### b.1. Individual Analysis Visualization 1
 
 ![image](https://github.com/user-attachments/assets/bd5ff59b-b9eb-4113-b0bd-f1fef6e6e040)
 
+### b.2. Individual Analysis Visualization 2
+
 ![image](https://github.com/user-attachments/assets/fe5b581d-2dd3-4ebf-b7e9-5ae4a785a7e6)
 
-### b.2. Individual Analysis
+### b.3. Individual Analysis
 
-From the Visualization, even though having multiple songs catergorized as featuring songs, Wren Evans collaborator, itsnk is a producer, only Evy is the true artist that got a verse in the song. Therefore
+### b.3.1 Wren Evans
+
+-From Visualization 1, although Wren Evans has multiple songs categorized as featuring songs, his main collaborator, itsnk, is a producer. The only true artist who contributed a verse was Evy, but that song did not achieve the same level of success as the others. From Visualization 2, Wren Evans' performance as a collaborator was decent. However, compared to other candidates, he struggled to compete.
+
+### b.3.2 Đen
+
+-When Đen is the main artist, he has introduced many talented artists like Biên, Nguyên Thảo, Ngọc Linh, and the latest young singer, Pia Linh, to the audience. On the other hand, the songs he was featured in were by well-known artists. Đen could be a great artist to collaborate with, as he helps boost the recognition of new artists. However, he seems to prioritize singers who excel in pop to balance the structure of his songs, given that he is a rapper.
+
+### b.3.3 tlinh
+
+-tlinh is the best candidate to be invited as a collaborator. She excels in her solo songs (with 215 weeks on the chart), in songs featuring a producer (2Pillz, with 124 weeks on the chart), and even more impressively, in songs where other artists featured her (132, 87, and 64 weeks on the chart from three different songs and artists, respectively).
+
+
+
+
+
+
