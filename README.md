@@ -23,18 +23,20 @@ Add-in data: 1st Artist, 2nd Artist, etc, Genres, Date, Solo vs Featuring, Vietn
 ## Visualizations & Data Analysis
 ### 1. Apple Music
 
-### a. Overall Analysis
+### a.1. Overall Analysis Visualization
 
 ![image](https://github.com/user-attachments/assets/d2b40306-54d5-4050-a09e-ab38e583b23c)
+
+### a.2. Overall Analysis
+
+Overall, on the Apple Music platform, Vietnamese listeners have gradually shifted their preference from US-UK pop to V-pop. As a result, music by Vietnamese artists has appeared more frequently in the Weekly Rank Chart since 2021.
+
+Sơn Tùng M-TP is undoubtedly the "King of V-pop" as he is the Most Dominant Artist on this platform, reaching the First position 26 times. He achieved this with seven different songs, with Chúng ta của hiện tại and Đừng làm trái tim anh đau being the two biggest hits, each reaching No.1 seven times. Additionally, Chúng ta của hiện tại stayed relevant for 194 weeks.
+
+Even though he has multiple hits, the Most Dominant Song does not belong to Sơn Tùng M-TP. Từng Quen by Wren Evans holds this title, ranking 1st for 15 weeks—an impressive feat for a young artist like him. Perhaps because of this success, both he and tlinh secured collaborations with Apple: "[Cứu lấy âm nhạc](https://www.youtube.com/watch?v=3K6PRfAp6O4)" and "[đừng làm nó phức tạp](https://www.youtube.com/watch?v=k2oCfQ5QOIk)".  It seems that Apple wanted to position itself as a young and energetic brand, as they actively promoted these two music videos. The Like-to-View ratio for Wren's song is only 0.11%, indicating that while the video was not highly engaging, it was seen by a large audience through advertising.
 
 ### b. Individual Analysis
 
 ![image](https://github.com/user-attachments/assets/bd5ff59b-b9eb-4113-b0bd-f1fef6e6e040)
 
-### c. Data Analysis
-
--Overall, in Apple Music platform, Vietnamese listeners had gradually shifted their preference from USUK pop to V-pop, because of that the music made by Vietnamese artists were showing up more in the Weekly Rank Chart since 2021.
-
--Sơn Tùng M-TP is undoubtly the "King of V-pop", because he is the Most Dominant Artist in this platform with 26 times in the First position, he achieved the First position with 7 different songs, "Chúng ta của hiện tại" and "Đừng làm trái tim anh đau" were the 2 hits with 7 times in the No.1 song, and "Chúng ta của hiện tại" also stayed relevant for 194 weeks.
-
--Even though having multiple hits, the Most Dominant Song was not belong to Sơn Tùng M-TP, "Từng Quen" from Wren Evans is the Most Dominant Song with 15 times in the 1st Rank. This is an impressive feat for a young artist like him. Maybe because of this feat, he and tlinh both each got a collaborative song with Apple: "[Cứu lấy âm nhạc](https://www.youtube.com/watch?v=3K6PRfAp6O4)" and "[đừng làm nó phức tạp](https://www.youtube.com/watch?v=k2oCfQ5QOIk)". 
+ 
