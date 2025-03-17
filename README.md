@@ -16,6 +16,13 @@ A new talent music artist wants to determine whether their music genre appeals t
 3. Cleaning data and solving problems along the way.
 4. Creating clear and impactful visualizations.
 5. Making decisions to match requirements based on data.
-## About the Datasets
+## About the Datasets (Look at Data preparation.doc for more information)
 Orignal data: Song Name, Rank position (Num), Artist Name (Merge).
+
 Add-in data: 1st Artist, 2nd Artist, etc, Genres, Date, Solo vs Featuring, Vietnamese vs Foreign.
+## Visualizations
+1. Apple Music
+a. Overall Analysis
+![image](https://github.com/user-attachments/assets/d2b40306-54d5-4050-a09e-ab38e583b23c)
+
+
