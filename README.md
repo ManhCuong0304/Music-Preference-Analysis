@@ -37,8 +37,12 @@ Even though he has multiple hits, the Most Dominant Song does not belong to Sơn
 
 To identify the perfect candidate for collaboration, an individual analysis is required. Among the top five artists in the Most Dominant Artists chart, three stand out as potential candidates. Sơn Tùng M-TP is primarily known for his solo songs, with his only collaboration being with a foreign artist, while Mono has had just one song reach the top. Therefore, Wren Evans, tlinh, and Đen have been selected for individual analysis.
 
-### b. Individual Analysis
+### b.1. Individual Analysis Visualization
 
 ![image](https://github.com/user-attachments/assets/bd5ff59b-b9eb-4113-b0bd-f1fef6e6e040)
 
- 
+![image](https://github.com/user-attachments/assets/fe5b581d-2dd3-4ebf-b7e9-5ae4a785a7e6)
+
+### b.2. Individual Analysis
+
+From the Visualization, even though having multiple songs catergorized as featuring songs, Wren Evans collaborator, itsnk is a producer, only Evy is the true artist that got a verse in the song. Therefore
