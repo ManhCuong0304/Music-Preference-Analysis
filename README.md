@@ -35,6 +35,8 @@ Sơn Tùng M-TP is undoubtedly the "King of V-pop" as he is the Most Dominant Ar
 
 Even though he has multiple hits, the Most Dominant Song does not belong to Sơn Tùng M-TP. Từng Quen by Wren Evans holds this title, ranking 1st for 15 weeks—an impressive feat for a young artist like him. Perhaps because of this success, both he and tlinh secured collaborations with Apple: "[Cứu lấy âm nhạc](https://www.youtube.com/watch?v=3K6PRfAp6O4)" and "[đừng làm nó phức tạp](https://www.youtube.com/watch?v=k2oCfQ5QOIk)".  It seems that Apple wanted to position itself as a young and energetic brand, as they actively promoted these two music videos. The Like-to-View ratio for Wren's song is only 0.11%, indicating that while the video was not highly engaging, it was seen by a large audience through advertising.
 
+To identify the perfect candidate for collaboration, an individual analysis is required. Among the top five artists in the Most Dominant Artists chart, three stand out as potential candidates. Sơn Tùng M-TP is primarily known for his solo songs, with his only collaboration being with a foreign artist, while Mono has had just one song reach the top. Therefore, Wren Evans, tlinh, and Đen have been selected for individual analysis.
+
 ### b. Individual Analysis
 
 ![image](https://github.com/user-attachments/assets/bd5ff59b-b9eb-4113-b0bd-f1fef6e6e040)
