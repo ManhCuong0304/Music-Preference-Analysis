@@ -20,6 +20,8 @@ A new talent music artist wants to determine whether their music genre appeals t
 Orignal data: Song Name, Rank position (Num), Artist Name (Merge).
 
 Add-in data: 1st Artist, 2nd Artist, etc, Genres, Date, Solo vs Featuring, Vietnamese vs Foreign.
+
+Apple Music's weekly chart features 100 songs, Spotify's includes 200, and Zing MP3's chart consists of 40 songs.
 ## Visualizations & Data Analysis
 ### 1. Apple Music
 
@@ -59,8 +61,21 @@ Add-in data: 1st Artist, 2nd Artist, etc, Genres, Date, Solo vs Featuring, Vietn
 
 -tlinh is the best candidate to be invited as a collaborator. She excels in her solo songs (with 215 weeks on the chart), in songs featuring a producer (2Pillz, with 124 weeks on the chart), and even more impressively, in songs where other artists featured her (132, 87, and 64 weeks on the chart from three different songs and artists, respectively).
 
+### 2. Spotify
 
+### a.1. Overall Analysis Visualization
 
+![image](https://github.com/user-attachments/assets/e1a0d612-d3a1-4fe7-9585-9b6cab249a48)
+
+### a.2. Overall Analysis
+
+-Overall, the data from Spotify is relatively similar to Apple Music. V-pop songs have gradually replaced US-UK pop songs in the 2024 weekly charts. Additionally, local hip-hop has gained traction among Spotify listeners, becoming the second most popular genre for the Vietnamese audience. As a result, Vietnamese songs appeared a total of 8915 times in Spotify’s most-listened weekly charts in 2024, a significant increase from just 2051 appearances in 2018, highlighting the growing demand for Vietnamese music each year.
+
+-Even though the preference for Korean music has declined since 2022, artists from Korea dominated the weekly first position, especially BTS and the group members (Jung Kook and Jimin). Even the "King of V-pop" struggled to overtake the first position from that idol band. There is a hypothesis that the fans of this band were dedicated enough to consistently "farm stream counts." This hypothesis will be discussed in the **Bonus section**. Aside from Korean artists, many foreign artists also held the No. 1 spot for several weeks. These findings suggest that while the overall preference is shifting toward local music, Vietnamese songs still face significant challenges in reaching the top.
+
+-The most dominant song is "Seven (explicit version)" with 27 times at the top position, followed by "Seven (normal version)" in second place with 16 times. It wasn’t until the sixth position that a Vietnamese song appeared,"Chúng ta của hiện tại" by Sơn Tùng, with 12 times at number one. The top 10 most dominant songs consisted of 8 K-pop tracks, highlighting the intense competition for the top weekly song on the Spotify platform.
+
+-To identify the perfect candidate for collaboration, an individual analysis is required. Since inviting foreign artists for collaboration is unrealistic for a new artist, foreign artist data was filtered out. The final top five were Sơn Tùng M-TP, Đen, Da LAB, Mỹ Tâm, and Vũ. Among these five, Sơn Tùng was not a good fit for collaboration, as previously discussed. Despite being repetitive, Đen was selected again because he is the second most successful Vietnamese artist on Spotify. Da LAB was chosen because the band had a song that reached the top position five times and remained relevant for 329 weeks. Vũ was selected as the final candidate for individual analysis due to having a song that appeared in nearly every weekly chart since its release. Additionally, he has featured in many collaborations, unlike Mỹ Tâm, who primarily focuses on solo projects.
 
 
 
