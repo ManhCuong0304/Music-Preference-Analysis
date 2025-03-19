@@ -100,4 +100,14 @@ Apple Music's weekly chart features 100 songs, Spotify's includes 200, and Zing 
 
 -Vũ's solo tracks are phenomenal in terms of relevancy. He collaborates with both well-known artists like Hà Anh Tuấn, Binz, and Low G, as well as emerging talents like TRANG and Mạc Mai Sương. As a featured artist, he played a significant role in boosting Madihu's career with the song Vì Anh Đâu Có Biết from Madihu’s debut album.
 
+### 3. Zing MP3
+
+### a.1. Overall Analysis Visualization
+
+![image](https://github.com/user-attachments/assets/190d4d16-858c-43ee-a1e7-4e0c50bb4144)
+
+### a.1. Overall Analysis
+
+-Since foreign songs have a separate chart, the genre data consists only of Vietnamese genres, with V-pop once again being the most popular. Songs on this platform do not remain on the chart for long, as Zing MP3’s weekly chart only features 40 songs, leading to lower total appearances. The most dominant artist on Zing MP3 is Jack-J97, who held the top position 26 times, , while the most dominant song is Cắt đôi nỗi sầu by Tăng Duy Tân, which reached No. 1 a total of 12 times. The listener demographics on this platform differ significantly from the other two, as the top artists and songs contrast sharply with those on Apple Music and Spotify. Notably, artists like Hương Ly, Lê Bảo Bình, and Châu Khải Phong, who dominate Zing MP3, are relatively unfamiliar in mainstream media.
+
 
