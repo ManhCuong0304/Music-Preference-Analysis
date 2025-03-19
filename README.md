@@ -22,6 +22,7 @@ Orignal data: Song Name, Rank position (Num), Artist Name (Merge).
 Add-in data: 1st Artist, 2nd Artist, etc, Genres, Date, Solo vs Featuring, Vietnamese vs Foreign.
 
 Apple Music's weekly chart features 100 songs, Spotify's includes 200, and Zing MP3's chart consists of 40 songs.
+
 ## Visualizations & Data Analysis
 ### 1. Apple Music
 
@@ -77,5 +78,22 @@ Apple Music's weekly chart features 100 songs, Spotify's includes 200, and Zing 
 
 -To identify the perfect candidate for collaboration, an individual analysis is required. Since inviting foreign artists for collaboration is unrealistic for a new artist, foreign artist data was filtered out. The final top five were Sơn Tùng M-TP, Đen, Da LAB, Mỹ Tâm, and Vũ. Among these five, Sơn Tùng was not a good fit for collaboration, as previously discussed. Despite being repetitive, Đen was selected again because he is the second most successful Vietnamese artist on Spotify. Da LAB was chosen because the band had a song that reached the top position five times and remained relevant for 329 weeks. Vũ was selected as the final candidate for individual analysis due to having a song that appeared in nearly every weekly chart since its release. Additionally, he has featured in many collaborations, unlike Mỹ Tâm, who primarily focuses on solo projects.
 
+### b.1. Individual Analysis Visualization 1
+
+![image](https://github.com/user-attachments/assets/3f1638e1-42a9-402a-b51d-45272262f250)
+
+### b.2. Individual Analysis Visualization 2
+
+![image](https://github.com/user-attachments/assets/47044852-8885-47f3-af5c-970d47e5030e)
+
+### b.3. Individual Analysis
+
+### b.3.1 Đen
+
+-Đen's performance as the main artist is relatively similar to Apple Music. However, when he is featured in other artists' songs, his performance is better on this platform in terms of the songs' relevance and the variety of artists he collaborates with. He is still a good artist for the collaboration.
+
+### b.3.2 Da LAB
+
+-Da LAB as a band, they excel in the solo tracks, when having featuring songs they usually invite artists that already had name to feature in their song, only Juky San was the new artist when they were collabed. The songs that they were the featured artist, they usually collabed with 
 
 
