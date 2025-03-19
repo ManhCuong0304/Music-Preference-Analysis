@@ -74,7 +74,7 @@ Apple Music's weekly chart features 100 songs, Spotify's includes 200, and Zing 
 
 -Even though the preference for Korean music has declined since 2022, artists from Korea dominated the weekly first position, especially BTS and the group members (Jung Kook and Jimin). Even the "King of V-pop" struggled to overtake the first position from that idol band. There is a hypothesis that the fans of this band were dedicated enough to consistently "farm stream counts." This hypothesis will be discussed in the **Bonus section**. Aside from Korean artists, many foreign artists also held the No. 1 spot for several weeks. These findings suggest that while the overall preference is shifting toward local music, Vietnamese songs still face significant challenges in reaching the top.
 
--The most dominant song is "Seven (explicit version)" with 27 times at the top position, followed by "Seven (normal version)" in second place with 16 times. It wasn’t until the sixth position that a Vietnamese song appeared,"Chúng ta của hiện tại" by Sơn Tùng, with 12 times at number one. The top 10 most dominant songs consisted of 8 K-pop tracks, highlighting the intense competition for the top weekly song on the Spotify platform.
+-The most dominant song is Seven (explicit version) with 27 times at the top position, followed by Seven (normal version) in second place with 16 times. It wasn’t until the sixth position that a Vietnamese song appeared, Chúng ta của hiện tại by Sơn Tùng, with 12 times at number one. The top 10 most dominant songs consisted of 8 K-pop tracks, highlighting the intense competition for the top weekly song on the Spotify platform.
 
 -To identify the perfect candidate for collaboration, an individual analysis is required. Since inviting foreign artists for collaboration is unrealistic for a new artist, foreign artist data was filtered out. The final top five were Sơn Tùng M-TP, Đen, Da LAB, Mỹ Tâm, and Vũ. Among these five, Sơn Tùng was not a good fit for collaboration, as previously discussed. Despite being repetitive, Đen was selected again because he is the second most successful Vietnamese artist on Spotify. Da LAB was chosen because the band had a song that reached the top position five times and remained relevant for 329 weeks. Vũ was selected as the final candidate for individual analysis due to having a song that appeared in nearly every weekly chart since its release. Additionally, he has featured in many collaborations, unlike Mỹ Tâm, who primarily focuses on solo projects.
 
@@ -90,10 +90,14 @@ Apple Music's weekly chart features 100 songs, Spotify's includes 200, and Zing 
 
 ### b.3.1 Đen
 
--Đen's performance as the main artist is relatively similar to Apple Music. However, when he is featured in other artists' songs, his performance is better on this platform in terms of the songs' relevance and the variety of artists he collaborates with. He is still a good artist for the collaboration.
+-Đen's performance as the main artist is relatively similar to Apple Music. However, when he is featured in other artists' songs, his performance is better on this platform in terms of the songs' relevance and the variety of artists he collaborates with. He is one of the best artist for the collaboration.
 
 ### b.3.2 Da LAB
 
--Da LAB as a band, they excel in the solo tracks, when having featuring songs they usually invite artists that already had name to feature in their song, only Juky San was the new artist when they were collabed. The songs that they were the featured artist, they usually collabed with 
+-Da LAB, as a band, excels in their solo tracks. When featuring other artists, they typically collaborate with established names, with Juky San being the only emerging artist they have worked with. Their performance as featured artists was solid but not outstanding, as they are often featured alongside their member Emcee L in his solo projects.
+
+### b.3.3 Vũ
+
+-Vũ's solo tracks are phenomenal in terms of relevancy. He collaborates with both well-known artists like Hà Anh Tuấn, Binz, and Low G, as well as emerging talents like TRANG and Mạc Mai Sương. As a featured artist, he played a significant role in boosting Madihu's career with the song Vì Anh Đâu Có Biết from Madihu’s debut album.
 
 
