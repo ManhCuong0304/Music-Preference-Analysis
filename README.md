@@ -28,17 +28,20 @@ Apple Music's weekly chart features 100 songs, Spotify's includes 200, and Zing 
 
 ### a.1. Overall Analysis Visualization 1
 
+### a.1.1. Visualization 1
 ![image](https://github.com/user-attachments/assets/c0c66e3b-79c0-435f-b380-4176425b99eb)
 
-
-### a.2. Overall Analysis Visualization 2
-
-![image](https://github.com/user-attachments/assets/49e78658-c5f5-4d2a-9f2c-6ee4117c9870)
-
-
-### a.3. Overall Analysis
+### a.1.2. Analysis
 
 -Overall, on the Apple Music platform, Vietnamese listeners have gradually shifted their preference from US-UK pop to V-pop. As a result, music by Vietnamese artists has appeared more frequently in the Weekly Rank Chart since 2021.
+
+-
+### a.2. Overall Analysis Visualization 2
+
+### a.2.1. Visualization 2
+![image](https://github.com/user-attachments/assets/49e78658-c5f5-4d2a-9f2c-6ee4117c9870)
+
+### a.2.2. Analysis
 
 -Sơn Tùng M-TP is undoubtedly the "King of V-pop" as he is the Most Dominant Artist on this platform, reaching the First position 26 times. He achieved this with seven different songs, with Chúng ta của hiện tại and Đừng làm trái tim anh đau being the two biggest hits, each reaching No.1 seven times. Additionally, Chúng ta của hiện tại stayed relevant for 194 weeks.
 
