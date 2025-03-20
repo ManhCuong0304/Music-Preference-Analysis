@@ -31,11 +31,11 @@ Apple Music's weekly chart features 100 songs, Spotify's includes 200, and Zing 
 ### a.1.1. Visualization 1
 ![image](https://github.com/user-attachments/assets/c0c66e3b-79c0-435f-b380-4176425b99eb)
 
-### a.1.2. Analysis
+### a.1.2. Overall Analysis
 
 -Overall, on the Apple Music platform, Vietnamese listeners have gradually shifted their preference from US-UK pop to V-pop. As a result, music by Vietnamese artists has appeared more frequently in the Weekly Rank Chart since 2021.
 
--
+-Taylor Swift is the 
 ### a.2. Overall Analysis Visualization 2
 
 ### a.2.1. Visualization 2
