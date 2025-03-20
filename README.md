@@ -40,7 +40,7 @@ Apple Music's weekly chart features 100 songs, Spotify's includes 200, and Zing 
 
 -tlinh is the most relevant featured artist in the chart, with songs featuring her appearing 350 times in the weekly most-listened songs chart.
 
--The song that stayed in the Top 100 the longest is Lối Nhỏ by Đen. It remained in the weekly chart for the entire years of 2021 and 2022, missing only one week in 2021 and 2023. However, in the latest year, it only stayed for 35 weeks.
+-The song that stayed in the Top 100 the longest is **Lối Nhỏ** by Đen. It remained in the weekly chart for the entire years of 2021 and 2022, missing only one week in 2021 and 2023. However, in the latest year, it only stayed for 35 weeks.
 
 ### a.2. Overall Analysis Visualization 2
 
@@ -54,11 +54,13 @@ Apple Music's weekly chart features 100 songs, Spotify's includes 200, and Zing 
 
 -The gap between Vietnamese and foreign artists in securing the No.1 spot has narrowed, shifting from Vietnamese songs holding the top position 41 times versus foreign songs 11 times in 2022 to a closer 31-21 split in 2024.
 
--Sơn Tùng M-TP is undoubtedly the "King of V-pop" as he is the Most Dominant Artist on this platform, reaching the First position 26 times. He achieved this with seven different songs, with Chúng ta của hiện tại and Đừng làm trái tim anh đau being the two biggest hits, each reaching No.1 seven times. Additionally, Chúng ta của hiện tại stayed relevant for 194 weeks.
+-Sơn Tùng M-TP is undoubtedly the "King of V-pop" as he is the Most Dominant Artist on this platform, reaching the First position 26 times. He achieved this with seven different songs, with **Chúng ta của hiện tại** and **Đừng làm trái tim anh đau** being the two biggest hits, each reaching No.1 seven times. Additionally, Chúng ta của hiện tại stayed relevant for 194 weeks.
 
--Even though Sơn Tùng has multiple hits, the Most Dominant Song does not belong to him. Từng Quen by Wren Evans holds this title, ranking 1st for 15 weeks—an impressive feat for a young artist like him. Perhaps because of this success, both he and tlinh secured collaborations with Apple: "[Cứu lấy âm nhạc](https://www.youtube.com/watch?v=3K6PRfAp6O4)" and "[đừng làm nó phức tạp](https://www.youtube.com/watch?v=k2oCfQ5QOIk)".  It seems that Apple wanted to position itself as a young and energetic brand, as they actively promoted these two music videos. The Like-to-View ratio for Wren's song is only 0.11%, indicating that while the video was not highly engaging, it was seen by a large audience through advertising.
+-itsnk is the Most Dominant Featured Artist, with two songs reaching the number 1 spot, one of which held the position 15 times.
 
--To identify the perfect candidate for collaboration, an individual analysis is required. Among the top five artists in the Most Dominant Artists chart, three stand out as potential candidates. Sơn Tùng M-TP is primarily known for his solo songs, with his only collaboration being with a foreign artist, while Mono has had just one song reach the top. Therefore, Wren Evans, tlinh, and Đen have been selected for individual analysis.
+-Even though Sơn Tùng has multiple hits, the Most Dominant Song does not belong to him. **Từng Quen** by Wren Evans holds this title, ranking 1st for 15 weeks—an impressive feat for a young artist like him. Perhaps because of this success, both he and tlinh secured collaborations with Apple: "[Cứu lấy âm nhạc](https://www.youtube.com/watch?v=3K6PRfAp6O4)" and "[đừng làm nó phức tạp](https://www.youtube.com/watch?v=k2oCfQ5QOIk)".  It seems that Apple wanted to position itself as a young and energetic brand, as they actively promoted these two music videos. The Like-to-View ratio for Wren's song is only 0.11%, indicating that while the video was not highly engaging, it was seen by a large audience through advertising.
+
+_-To identify the perfect candidate for collaboration, an individual analysis is required. Among the top five artists in the Most Dominant Artists chart, three stand out as potential candidates. Sơn Tùng M-TP is primarily known for his solo songs, with his only collaboration being with a foreign artist, while Mono has had just one song reach the top. Therefore, Wren Evans, tlinh, and Đen have been selected for individual analysis._
 
 ### b.1. Individual Analysis Visualization 1
 
