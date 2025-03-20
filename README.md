@@ -29,33 +29,44 @@ Apple Music's weekly chart features 100 songs, Spotify's includes 200, and Zing 
 ### a.1. Overall Analysis Visualization 1
 
 ### a.1.1. Visualization 1
-![image](https://github.com/user-attachments/assets/c0c66e3b-79c0-435f-b380-4176425b99eb)
+
+![image](https://github.com/user-attachments/assets/5ab26534-6422-4cce-aa15-b9b6fcfdfdb6)
 
 ### a.1.2. Overall Analysis
 
 -Overall, on the Apple Music platform, Vietnamese listeners have gradually shifted their preference from US-UK pop to V-pop. As a result, music by Vietnamese artists has appeared more frequently in the Weekly Rank Chart since 2021.
 
--Taylor Swift is the 
+-Taylor Swift is the most relevant artist in the chart with 1035 appearances. Despite being a foreign artist in the Vietnamese preference chart and the overall decline in demand for US-UK pop, her songs still hold strong replay value.
+
+-tlinh is the most relevant featured artist in the chart, with songs featuring her appearing 350 times in the weekly most-listened songs chart.
+
+-The song that stayed in the Top 100 the longest is Lối Nhỏ by Đen. It remained in the weekly chart for the entire years of 2021 and 2022, missing only one week in 2021 and 2023. However, in the latest year, it only stayed for 35 weeks.
+
 ### a.2. Overall Analysis Visualization 2
 
 ### a.2.1. Visualization 2
-![image](https://github.com/user-attachments/assets/49e78658-c5f5-4d2a-9f2c-6ee4117c9870)
+
+![image](https://github.com/user-attachments/assets/d54da873-5e35-47b2-80d5-e742cb62ecbd)
 
 ### a.2.2. Analysis
 
+-The genre preferences of the top songs were quite diverse in 2021, but by 2024, only three genres dominated the competition for the top spots: V-pop, Pop, and K-pop.
+
+-The gap between Vietnamese and foreign artists in securing the No.1 spot has narrowed, shifting from Vietnamese songs holding the top position 41 times versus foreign songs 11 times in 2022 to a closer 31-21 split in 2024.
+
 -Sơn Tùng M-TP is undoubtedly the "King of V-pop" as he is the Most Dominant Artist on this platform, reaching the First position 26 times. He achieved this with seven different songs, with Chúng ta của hiện tại and Đừng làm trái tim anh đau being the two biggest hits, each reaching No.1 seven times. Additionally, Chúng ta của hiện tại stayed relevant for 194 weeks.
 
--Even though he has multiple hits, the Most Dominant Song does not belong to Sơn Tùng M-TP. Từng Quen by Wren Evans holds this title, ranking 1st for 15 weeks—an impressive feat for a young artist like him. Perhaps because of this success, both he and tlinh secured collaborations with Apple: "[Cứu lấy âm nhạc](https://www.youtube.com/watch?v=3K6PRfAp6O4)" and "[đừng làm nó phức tạp](https://www.youtube.com/watch?v=k2oCfQ5QOIk)".  It seems that Apple wanted to position itself as a young and energetic brand, as they actively promoted these two music videos. The Like-to-View ratio for Wren's song is only 0.11%, indicating that while the video was not highly engaging, it was seen by a large audience through advertising.
+-Even though Sơn Tùng has multiple hits, the Most Dominant Song does not belong to him. Từng Quen by Wren Evans holds this title, ranking 1st for 15 weeks—an impressive feat for a young artist like him. Perhaps because of this success, both he and tlinh secured collaborations with Apple: "[Cứu lấy âm nhạc](https://www.youtube.com/watch?v=3K6PRfAp6O4)" and "[đừng làm nó phức tạp](https://www.youtube.com/watch?v=k2oCfQ5QOIk)".  It seems that Apple wanted to position itself as a young and energetic brand, as they actively promoted these two music videos. The Like-to-View ratio for Wren's song is only 0.11%, indicating that while the video was not highly engaging, it was seen by a large audience through advertising.
 
 -To identify the perfect candidate for collaboration, an individual analysis is required. Among the top five artists in the Most Dominant Artists chart, three stand out as potential candidates. Sơn Tùng M-TP is primarily known for his solo songs, with his only collaboration being with a foreign artist, while Mono has had just one song reach the top. Therefore, Wren Evans, tlinh, and Đen have been selected for individual analysis.
 
 ### b.1. Individual Analysis Visualization 1
 
-![image](https://github.com/user-attachments/assets/bd5ff59b-b9eb-4113-b0bd-f1fef6e6e040)
+![image](https://github.com/user-attachments/assets/5a38714b-803f-47dc-af46-4f46fe61c8be)
 
 ### b.2. Individual Analysis Visualization 2
 
-![image](https://github.com/user-attachments/assets/fe5b581d-2dd3-4ebf-b7e9-5ae4a785a7e6)
+![image](https://github.com/user-attachments/assets/87397554-bfe2-4900-af99-28508bfb1c5c)
 
 ### b.3. Individual Analysis
 
