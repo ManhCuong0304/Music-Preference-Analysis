@@ -154,7 +154,13 @@ _-To identify the perfect candidate for collaboration, an individual analysis is
 
 ### a.1.2. Analysis
 
--Since foreign songs have a separate chart, the genre data consists only of Vietnamese genres, with V-pop once again being the most popular. Songs on this platform do not remain on the chart for long, as Zing MP3’s weekly chart only features 40 songs, leading to lower total appearances. The most dominant artist on Zing MP3 is Jack-J97, who held the top position 26 times, , while the most dominant song is Cắt đôi nỗi sầu by Tăng Duy Tân, which reached No. 1 a total of 12 times. The listener demographics on this platform differ significantly from the other two, as the top artists and songs contrast sharply with those on Apple Music and Spotify. Notably, artists like Hương Ly, Lê Bảo Bình, and Châu Khải Phong, who dominate Zing MP3, are relatively unfamiliar in mainstream media.
+-Since foreign songs have a separate chart, the genre data consists only of Vietnamese genres, with V-pop once again being the most popular. 
+
+-The most relevant artist on this platform is Châu Khải Phong, with a total of 363 appearances. The listener demographics on this platform differ significantly from the other two, as the most relevant artists and songs contrast sharply with those on Apple Music and Spotify. Notably, artists like Hương Ly, Lê Bảo Bình, and even the most relevant artist, Châu Khải Phong, are relatively unfamiliar in mainstream media.
+
+-ACV is the most relevant featured artist with 683 appearance times.
+
+-"Cô Phòng" by Hồ Quang Hiếu is the most listed song in the weekly charts, with only 38 appearances. This is a relatively low figure, likely because Zing MP3’s weekly chart only features 40 songs, leading to lower total appearances.
 
 ### a.2. Overall Analysis Visualization 2
 
@@ -164,6 +170,11 @@ _-To identify the perfect candidate for collaboration, an individual analysis is
 
 ### a.2.2. Analysis
 
+-The most dominant artist on Zing MP3 is Jack-J97, who held the top position 26 times, while the most dominant song is Cắt đôi nỗi sầu by Tăng Duy Tân, which reached No. 1 a total of 12 times. 
+
+-The most dominant featured artist is ACV, with 23 appearances at the top position. ACV is an excellent featured artist on Zing MP3, having helped five artists reach the number one spot.
+
+To identify the perfect candidate for collaboration, an individual analysis is required.
 
 ### b.1. Individual Analysis Visualization 1
 
