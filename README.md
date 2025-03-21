@@ -100,7 +100,7 @@ _-To identify the perfect candidate for collaboration, an individual analysis is
 
 -Duongg is the featured artists with the most appearances on Spotify, with 607 times.
 
--"Lạ lùng" by Vũ. is the song that stayed in the chart the longest with 351 consecutive week appearances.
+-"Lạ Lùng" by Vũ. is the song that stayed in the chart the longest with 351 consecutive week appearances.
 
 ### a.2. Overall Analysis Visualization 2
 
