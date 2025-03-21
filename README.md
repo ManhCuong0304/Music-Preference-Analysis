@@ -30,7 +30,7 @@ Apple Music's weekly chart features 100 songs, Spotify's includes 200, and Zing 
 
 ### a.1.1. Visualization 1
 
-![image](https://github.com/user-attachments/assets/5ab26534-6422-4cce-aa15-b9b6fcfdfdb6)
+![image](https://github.com/user-attachments/assets/d77c5f74-d3e4-49c0-950a-bcac00a9b709)
 
 ### a.1.2. Overall Analysis
 
@@ -86,15 +86,37 @@ _-To identify the perfect candidate for collaboration, an individual analysis is
 
 ### 2. Spotify
 
-### a.1. Overall Analysis Visualization
+### a.1. Overall Analysis Visualization 1
 
-![image](https://github.com/user-attachments/assets/e1a0d612-d3a1-4fe7-9585-9b6cab249a48)
+### a.1.1 Visualization 1
 
-### a.2. Overall Analysis
+![image](https://github.com/user-attachments/assets/2285bc04-e2a9-4ca7-b502-d5b701548a25)
+
+### a.1.2 Analysis
 
 -Overall, the data from Spotify is relatively similar to Apple Music. V-pop songs have gradually replaced US-UK pop songs in the 2024 weekly charts. Additionally, local hip-hop has gained traction among Spotify listeners, becoming the second most popular genre for the Vietnamese audience. As a result, Vietnamese songs appeared a total of 8915 times in Spotify’s most-listened weekly charts in 2024, a significant increase from just 2051 appearances in 2018, highlighting the growing demand for Vietnamese music each year.
 
--Even though the preference for Korean music has declined since 2022, artists from Korea dominated the weekly first position, especially BTS and the group members (Jung Kook and Jimin). Even the "King of V-pop" struggled to overtake the first position from that idol band. There is a hypothesis that the fans of this band were dedicated enough to consistently "farm stream counts." This hypothesis will be discussed in the **Bonus section**. Aside from Korean artists, many foreign artists also held the No. 1 spot for several weeks. These findings suggest that while the overall preference is shifting toward local music, Vietnamese songs still face significant challenges in reaching the top.
+-BTS is the most relevant artist or in this case, the most dominant band with their songs appearing in the weekly chart a total of 3046 times. Notably, 2020 was their peak year, with 738 appearances over 53 weeks. This means that, on average, 14 out of the 200 songs on the chart each week belonged to BTS.
+
+-Duongg is the featured artists with the most appearances on Spotify, with 607 times.
+
+-"Lạ lùng" by Vũ. is the song that stayed in the chart the longest with 351 consecutive week appearances.
+
+### a.2. Overall Analysis Visualization 2
+
+### a.2.1 Visualization 2
+
+![image](https://github.com/user-attachments/assets/80336cc2-f04b-4142-8b08-20f11072c2d0)
+
+### a.2.2 Analysis
+
+-Even though the overall data shows that the preference for K-pop has declined since 2022, the Rank 1 data highlights its dominance, with K-pop holding the top spot for 46 out of 52 weeks in 2024.
+
+-Aside from Korean artists, many foreign artists also held the No. 1 spot for several weeks. These findings suggest that while the overall preference is shifting toward local music, Vietnamese songs still face significant challenges in reaching the top.
+
+-Artists from Korea dominated the weekly first position, especially BTS and the group members (Jung Kook and Jimin). Even the "King of V-pop" struggled to overtake the first position from that idol band. There is a hypothesis that the fans of this band were dedicated enough to consistently "farm stream counts." This hypothesis will be discussed in the **Bonus section**. 
+
+-The most dominant featured artist is Latto, with 43 appearances across two versions of the same Jung Kook song.
 
 -The most dominant song is Seven (explicit version) with 27 times at the top position, followed by Seven (normal version) in second place with 16 times. It wasn’t until the sixth position that a Vietnamese song appeared, Chúng ta của hiện tại by Sơn Tùng, with 12 times at number one. The top 10 most dominant songs consisted of 8 K-pop tracks, highlighting the intense competition for the top weekly song on the Spotify platform.
 
