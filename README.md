@@ -30,7 +30,7 @@ Apple Music's weekly chart features 100 songs, Spotify's includes 200, and Zing 
 
 ### a.1.1. Visualization 1
 
-![image](https://github.com/user-attachments/assets/d77c5f74-d3e4-49c0-950a-bcac00a9b709)
+![image](https://github.com/user-attachments/assets/0130b436-a8c4-4714-ac56-cb6b0af9ca17)
 
 ### a.1.2. Overall Analysis
 
@@ -46,7 +46,7 @@ Apple Music's weekly chart features 100 songs, Spotify's includes 200, and Zing 
 
 ### a.2.1. Visualization 2
 
-![image](https://github.com/user-attachments/assets/d54da873-5e35-47b2-80d5-e742cb62ecbd)
+![image](https://github.com/user-attachments/assets/15ad154f-3793-4874-be79-62bb18badad0)
 
 ### a.2.2. Analysis
 
