@@ -90,7 +90,7 @@ _-To identify the perfect candidate for collaboration, an individual analysis is
 
 ### a.1.1 Visualization 1
 
-![image](https://github.com/user-attachments/assets/2285bc04-e2a9-4ca7-b502-d5b701548a25)
+![image](https://github.com/user-attachments/assets/10d88975-50c2-41af-b083-6fb6876b2fa4)
 
 ### a.1.2 Analysis
 
@@ -106,7 +106,7 @@ _-To identify the perfect candidate for collaboration, an individual analysis is
 
 ### a.2.1 Visualization 2
 
-![image](https://github.com/user-attachments/assets/80336cc2-f04b-4142-8b08-20f11072c2d0)
+![image](https://github.com/user-attachments/assets/133afd72-e1bb-4ccc-9092-3c4fc296dfee)
 
 ### a.2.2 Analysis
 
