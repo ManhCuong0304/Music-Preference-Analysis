@@ -30,7 +30,7 @@ Apple Music's weekly chart features 100 songs, Spotify's includes 200, and Zing 
 
 ### a.1.1. Visualization 1
 
-![image](https://github.com/user-attachments/assets/0130b436-a8c4-4714-ac56-cb6b0af9ca17)
+![image](https://github.com/user-attachments/assets/c9fa3e5c-67ab-4daa-bf21-ce0b89acf866)
 
 ### a.1.2. Overall Analysis
 
@@ -46,7 +46,7 @@ Apple Music's weekly chart features 100 songs, Spotify's includes 200, and Zing 
 
 ### a.2.1. Visualization 2
 
-![image](https://github.com/user-attachments/assets/15ad154f-3793-4874-be79-62bb18badad0)
+![image](https://github.com/user-attachments/assets/35d76324-4ee1-4b88-a915-7de021f9650d)
 
 ### a.2.2. Analysis
 
@@ -90,7 +90,7 @@ _-To identify the perfect candidate for collaboration, an individual analysis is
 
 ### a.1.1 Visualization 1
 
-![image](https://github.com/user-attachments/assets/10d88975-50c2-41af-b083-6fb6876b2fa4)
+![image](https://github.com/user-attachments/assets/6b8d5ba3-8c78-4b93-bd73-6c7b4f385f16)
 
 ### a.1.2 Analysis
 
@@ -106,7 +106,7 @@ _-To identify the perfect candidate for collaboration, an individual analysis is
 
 ### a.2.1 Visualization 2
 
-![image](https://github.com/user-attachments/assets/133afd72-e1bb-4ccc-9092-3c4fc296dfee)
+![image](https://github.com/user-attachments/assets/7b768e82-9ff1-4591-80fb-b01cffda45da)
 
 ### a.2.2 Analysis
 
