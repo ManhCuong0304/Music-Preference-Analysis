@@ -1,4 +1,4 @@
-# Data Analysis Project: Vietnamese Music Preference from 2018 to 2024
+![image](https://github.com/user-attachments/assets/5a14341a-92ea-4c94-a15f-073b50cdde3b)# Data Analysis Project: Vietnamese Music Preference from 2018 to 2024
 ## I. Introduction
 A new talent music artist wants to determine whether their music genre appeals to Vietnamese listeners and identify suitable, well-known artists within the same genre for collaboration on their debut album. The Analysis Project will help that artist to understand the overall listener demographic, the best candidate to invite for the collaboration, what platform that the artist's song would perform the best.
 ## II. Project Objectives: 
@@ -88,11 +88,11 @@ _-To identify the perfect candidate for collaboration, an individual analysis is
 
 ### a.1. Overall Analysis Visualization 1
 
-### a.1.1 Visualization 1
+### a.1.1. Visualization 1
 
 ![image](https://github.com/user-attachments/assets/6b8d5ba3-8c78-4b93-bd73-6c7b4f385f16)
 
-### a.1.2 Analysis
+### a.1.2. Analysis
 
 -Overall, the data from Spotify is relatively similar to Apple Music. V-pop songs have gradually replaced US-UK pop songs in the 2024 weekly charts. Additionally, local hip-hop has gained traction among Spotify listeners, becoming the second most popular genre for the Vietnamese audience. As a result, Vietnamese songs appeared a total of 8915 times in Spotify’s most-listened weekly charts in 2024, a significant increase from just 2051 appearances in 2018, highlighting the growing demand for Vietnamese music each year.
 
@@ -104,11 +104,11 @@ _-To identify the perfect candidate for collaboration, an individual analysis is
 
 ### a.2. Overall Analysis Visualization 2
 
-### a.2.1 Visualization 2
+### a.2.1. Visualization 2
 
 ![image](https://github.com/user-attachments/assets/7b768e82-9ff1-4591-80fb-b01cffda45da)
 
-### a.2.2 Analysis
+### a.2.2. Analysis
 
 -Even though the overall data shows that the preference for K-pop has declined since 2022, the Rank 1 data highlights its dominance, with K-pop holding the top spot for 46 out of 52 weeks in 2024.
 
@@ -132,26 +132,45 @@ _-To identify the perfect candidate for collaboration, an individual analysis is
 
 ### b.3. Individual Analysis
 
-### b.3.1 Đen
+### b.3.1. Đen
 
 -Đen's performance as the main artist is relatively similar to Apple Music. However, when he is featured in other artists' songs, his performance is better on this platform in terms of the songs' relevance and the variety of artists he collaborates with. He is one of the best artist for the collaboration.
 
-### b.3.2 Da LAB
+### b.3.2. Da LAB
 
 -Da LAB, as a band, excels in their solo tracks. When featuring other artists, they typically collaborate with established names, with Juky San being the only emerging artist they have worked with. Their performance as featured artists was solid but not outstanding, as they are often featured alongside their member Emcee L in his solo projects.
 
-### b.3.3 Vũ
+### b.3.3. Vũ
 
 -Vũ's solo tracks are phenomenal in terms of relevancy. He collaborates with both well-known artists like Hà Anh Tuấn, Binz, and Low G, as well as emerging talents like TRANG and Mạc Mai Sương. As a featured artist, he played a significant role in boosting Madihu's career with the song Vì Anh Đâu Có Biết from Madihu’s debut album.
 
 ### 3. Zing MP3
 
-### a.1. Overall Analysis Visualization
+### a.1. Overall Analysis Visualization 1
 
-![image](https://github.com/user-attachments/assets/190d4d16-858c-43ee-a1e7-4e0c50bb4144)
+### a.1.1. Visualization 1
 
-### a.1. Overall Analysis
+![image](https://github.com/user-attachments/assets/3df63b9e-6824-467f-8a48-f797b6dcbedf)
+
+### a.1.2. Analysis
 
 -Since foreign songs have a separate chart, the genre data consists only of Vietnamese genres, with V-pop once again being the most popular. Songs on this platform do not remain on the chart for long, as Zing MP3’s weekly chart only features 40 songs, leading to lower total appearances. The most dominant artist on Zing MP3 is Jack-J97, who held the top position 26 times, , while the most dominant song is Cắt đôi nỗi sầu by Tăng Duy Tân, which reached No. 1 a total of 12 times. The listener demographics on this platform differ significantly from the other two, as the top artists and songs contrast sharply with those on Apple Music and Spotify. Notably, artists like Hương Ly, Lê Bảo Bình, and Châu Khải Phong, who dominate Zing MP3, are relatively unfamiliar in mainstream media.
 
+### a.2. Overall Analysis Visualization 2
 
+### a.2.1. Visualization 2
+
+![image](https://github.com/user-attachments/assets/3181dd95-468d-4866-8e54-faaa41b328f0)
+
+### a.2.2. Analysis
+
+
+### b.1. Individual Analysis Visualization 1
+
+![image](https://github.com/user-attachments/assets/1f038cdd-dcc9-4b49-92b0-3eca0fcd16fe)
+
+### b.2. Individual Analysis Visualization 2
+
+![image](https://github.com/user-attachments/assets/208839cb-bbc2-4b00-90b2-d0cf02954027)
+
+### b.3. Individual Analysis
