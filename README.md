@@ -40,7 +40,7 @@ Apple Music's weekly chart features 100 songs, Spotify's includes 200, and Zing 
 
 -tlinh is the most relevant featured artist in the chart, with songs featuring her appearing 350 times in the weekly most-listened songs chart.
 
--The song that stayed in the Top 100 the longest is **Lối Nhỏ** by Đen. It remained in the weekly chart for the entire years of 2021 and 2022, missing only one week in 2021 and 2023. However, in the latest year, it only stayed for 35 weeks.
+-The song that stayed in the Top 100 the longest is **Lối Nhỏ** by Đen. It remained in the weekly chart for the entire years of 2021 and 2022, missing only 1 week in 2021 and 2023. However, in the latest year, it only stayed for 35 weeks.
 
 ### a.2. Overall Analysis Visualization 2
 
@@ -118,7 +118,7 @@ _-To identify the perfect candidate for collaboration, an individual analysis is
 
 -The most dominant featured artist is Latto, with 43 appearances across two versions of the same Jung Kook song.
 
--The most dominant song is Seven (explicit version) with 27 times at the top position, followed by Seven (normal version) in second place with 16 times. It wasn’t until the sixth position that a Vietnamese song appeared, Chúng ta của hiện tại by Sơn Tùng, with 12 times at number one. The top 10 most dominant songs consisted of 8 K-pop tracks, highlighting the intense competition for the top weekly song on the Spotify platform.
+-The most dominant song is Seven (explicit version) with 27 times at the top position, followed by Seven (normal version) in second place with 16 times. It wasn’t until the sixth position that a Vietnamese song appeared, Chúng ta của hiện tại by Sơn Tùng, with 12 times at number 1. The top 10 most dominant songs consisted of 8 K-pop tracks, highlighting the intense competition for the top weekly song on the Spotify platform.
 
 -To identify the perfect candidate for collaboration, an individual analysis is required. Since inviting foreign artists for collaboration is unrealistic for a new artist, foreign artist data was filtered out. The final top five were Sơn Tùng M-TP, Đen, Da LAB, Mỹ Tâm, and Vũ. Among these five, Sơn Tùng was not a good fit for collaboration, as previously discussed. Despite being repetitive, Đen was selected again because he is the second most successful Vietnamese artist on Spotify. Da LAB was chosen because the band had a song that reached the top position five times and remained relevant for 329 weeks. Vũ was selected as the final candidate for individual analysis due to having a song that appeared in nearly every weekly chart since its release. Additionally, he has featured in many collaborations, unlike Mỹ Tâm, who primarily focuses on solo projects.
 
@@ -172,10 +172,11 @@ _-To identify the perfect candidate for collaboration, an individual analysis is
 
 -The most dominant artist on Zing MP3 is Jack-J97, who held the top position 26 times, while the most dominant song is Cắt đôi nỗi sầu by Tăng Duy Tân, which reached No. 1 a total of 12 times. 
 
--The most dominant featured artist is ACV, with 23 appearances at the top position. ACV is an excellent featured artist on Zing MP3, having helped five artists reach the number one spot.
+-The most dominant featured artist is ACV, with 23 appearances at the top position. ACV is an excellent featured artist on Zing MP3, having helped five artists reach the number 1 spot.
 
-To identify the perfect candidate for collaboration, an individual analysis is required.
-
+-Although these artists seem not suitable for our artist since they are only thriving on Zing MP3, there will also be an individual analysis to ensure a fair judgment.
+The 3 prominent collaborators are Hương Ly, Châu Khải Phong, and Đạt G, as the other artists are either solo performers or prefer collaborating with producers.
+ 
 ### b.1. Individual Analysis Visualization 1
 
 ![image](https://github.com/user-attachments/assets/1f038cdd-dcc9-4b49-92b0-3eca0fcd16fe)
@@ -185,3 +186,15 @@ To identify the perfect candidate for collaboration, an individual analysis is r
 ![image](https://github.com/user-attachments/assets/208839cb-bbc2-4b00-90b2-d0cf02954027)
 
 ### b.3. Individual Analysis
+
+### b.3.1. Hương Ly
+
+-As the main artist, Hương Ly's performance is impressive. Although her solo tracks appeared more frequently on the chart, she has a fair share of songs featuring other artists. The variety of featured artists also showcases her versatility in music. As the guest artist in others' songs, her performance is strong, with one featured song appearing 20 times in the charts.
+
+### b.3.2. Châu Khải Phong
+
+-Châu Khải Phong's performance as the main artist is remarkable, with six songs appearing more than 20 times on the chart, one of which peaked at 32 appearances. ACV is his best collaborator, as they worked together on 10 tracks, while his other featured artists were lackluster in terms of song relevance. As the featured artist, his performance was not as strong compared to the other two potential collaborators.
+
+### b.3.3. Đạt G
+
+-Đạt G seems to prefer working on solo tracks or collaborating with Du Uyen. His songs as the main artist did not perform as well as the other two. Despite that, when it comes to being a featured artist, he is the best among the three. 
