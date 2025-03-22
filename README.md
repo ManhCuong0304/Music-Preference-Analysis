@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5a14341a-92ea-4c94-a15f-073b50cdde3b)# Data Analysis Project: Vietnamese Music Preference from 2018 to 2024
+# Data Analysis Project: Vietnamese Music Preference from 2018 to 2024
 ## I. Introduction
 A new talent music artist wants to determine whether their music genre appeals to Vietnamese listeners and identify suitable, well-known artists within the same genre for collaboration on their debut album. The Analysis Project will help that artist to understand the overall listener demographic, the best candidate to invite for the collaboration, what platform that the artist's song would perform the best.
 ## II. Project Objectives: 
