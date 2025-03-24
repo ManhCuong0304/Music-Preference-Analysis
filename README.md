@@ -20,7 +20,12 @@ A new talent music artist wants to determine whether their music genre appeals t
 4. Creating clear and impactful visualizations.
 5. Making decisions to match requirements based on data.
 
-## V. About the Datasets (Please review at Data preparation.doc for more information)
+## V. About the Datasets (Please review Data preparation.doc for more information)
+-Data sources:
+Apple Music: https://www.top-charts.com/songs/all-genres/vietnam/apple-music
+Spotify: https://charts.spotify.com/charts/view/regional-vn-weekly/latest
+Zing MP3: https://zingmp3.vn/zing-chart-tuan/Bai-hat-Viet-Nam/IWZ9Z08I.html
+
 -Orignal data columns: 
 1. **Song Name:** The name of the Song
 
