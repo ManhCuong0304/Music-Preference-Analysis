@@ -22,63 +22,63 @@ A new talent music artist wants to determine whether their music genre appeals t
 
 ## V. About the Datasets (Please review at Data preparation.doc for more information)
 -Orignal data columns: 
-Song Name: The name of the Song
+**Song Name:** The name of the Song
 
-Rank position (Integer): The position of the Song in the week in number format
+**Rank position (Integer):** The position of the Song in the week in number format
 
-Artist Name (Merge): The name of the Artist(s) of that song
+**Artist Name (Merge):** The name of the Artist(s) of that song
 
 -Add-in data:
-Rank position (String): The position of the song in the week in ordinal format
+**Rank position (String):** The position of the song in the week in ordinal format
 
-1st Artist: The name of the 1st Artist of the song
+**1st Artist:** The name of the 1st Artist of the song
 
-2nd Artist: The name of the 2nd Artist of the song. There will be multiple columns for artists depending on the number of artists in the song.
+**2nd Artist:** The name of the 2nd Artist of the song. There will be multiple columns for artists depending on the number of artists in the song.
 
-Genres: The name of the Genres of the song
+**Genres:** The name of the Genres of the song
 
-Date: The starting day of the week varies between platforms
+**Date:** The starting day of the week varies between platforms
 
-Solo vs Featuring: To differentiate whether the song is a solo track or a collaboration
+**Solo vs Featuring:** To differentiate whether the song is a solo track or a collaboration
 
-Vietnamese vs Foreign: To differentiate whether the song is made by Vietnamese artist(s) or foreign artist(s)
+**Vietnamese vs Foreign:** To differentiate whether the song is made by Vietnamese artist(s) or foreign artist(s)
 
 Apple Music's weekly chart features 100 songs, Spotify's includes 200, and Zing MP3's chart consists of 40 songs.
 
 ## VI. Metrics
-These will be the metrics used in the analyses:
+-These will be the metrics used in the analyses:
 
-Vietnamese Music Genre Preferences (2018-2024): To show the changes in listeners' genre preferences from 2018 to 2024
+**Vietnamese Music Genre Preferences (2018-2024):** To show the changes in listeners' genre preferences from 2018 to 2024
 
-Solo vs. Featuring Songs (Total Weeks on Chart): Count the total number of Solo tracks and Featured tracks
+**Solo vs. Featuring Songs (Total Weeks on Chart):** Count the total number of Solo tracks and Featured tracks
 
-Vietnamese vs. Foreign Artists (Total Weeks on Chart): Count the total number of Vietnamese tracks and Foreign tracks
+**Vietnamese vs. Foreign Artists (Total Weeks on Chart):** Count the total number of Vietnamese tracks and Foreign tracks
 
-10 Artists with the Most Appearances in the Top 100, 200, or 40 (Total Weeks on Chart): Count the total number of weekly chart appearances for the top 10 Artists
+**10 Artists with the Most Appearances in the Top 100, 200, or 40 (Total Weeks on Chart):** Count the total number of weekly chart appearances for the top 10 Artists
 
-10 Featured Artists with the Most Appearances in the Top 100, 200, or 40 (Total Weeks on Chart): Count the total number of weekly chart appearances for the top 10 Featured Artists
+**10 Featured Artists with the Most Appearances in the Top 100, 200, or 40 (Total Weeks on Chart):** Count the total number of weekly chart appearances for the top 10 Featured Artists
 
-10 Songs That Stayed in the Top 100, 200, or 40 the Longest (Total Weeks on Chart): Count the total number of weekly chart appearances for the top 10 Songs
+**10 Songs That Stayed in the Top 100, 200, or 40 the Longest (Total Weeks on Chart):** Count the total number of weekly chart appearances for the top 10 Songs
 
-Vietnamese Music Genre Preferences of the Top Songs (2018-2024): To show the changes in listeners' genre preferences for the songs that reached the 1st position from 2018 to 2024
+**Vietnamese Music Genre Preferences of the Top Songs (2018-2024):** To show the changes in listeners' genre preferences for the songs that reached the 1st position from 2018 to 2024
 
-Solo vs. Featuring Songs (Total of Weeks #1): Count the total number of Solo tracks and Featured tracks for the songs that reached the 1st position
+**Solo vs. Featuring Songs (Total of Weeks #1):** Count the total number of Solo tracks and Featured tracks for the songs that reached the 1st position
 
-Vietnamese vs. Foreign Artists (Total Weeks #1): Count the total number of Vietnamese tracks and Foreign tracks for the songs that reached the 1st position
+**Vietnamese vs. Foreign Artists (Total Weeks #1):** Count the total number of Vietnamese tracks and Foreign tracks for the songs that reached the 1st position
 
-Most Dominant Artists in the Charts (Total of Weeks at #1): Count the total number of weekly chart appearances for the Artists that reached the 1st position
+**Most Dominant Artists in the Charts (Total of Weeks at #1):** Count the total number of weekly chart appearances for the Artists that reached the 1st position
 
-Most Dominant Featured Artists in the Charts (Total of Weeks at #1): Count the total number of weekly chart appearances for the Featured Artists that reached the 1st position
+**Most Dominant Featured Artists in the Charts (Total of Weeks at #1):** Count the total number of weekly chart appearances for the Featured Artists that reached the 1st position
 
-Most Dominant Songs in the Charts (Total of Weeks at #1): Count the total number of weekly chart appearances for the Songs that reached the 1st position
+**Most Dominant Songs in the Charts (Total of Weeks at #1):** Count the total number of weekly chart appearances for the Songs that reached the 1st position
 
-X's Song Performance (Total Weeks on Chart) (X will be the name of the Artist): Count the total number of weekly chart appearances for X's Songs
+**X's Song Performance (Total Weeks on Chart) (X will be the name of the Artist):** Count the total number of weekly chart appearances for X's Songs
 
-Artists Featured in Xs's Songs (Total Weeks on Chart) (X will be the name of the Artist): Count the total number of weekly chart appearances for the Artists that featured in X's Songs
+**Artists Featured in Xs's Songs (Total Weeks on Chart) (X will be the name of the Artist):** Count the total number of weekly chart appearances for the Artists that featured in X's Songs
 
-Performance of Songs Featuring X (Total Weeks on Chart) (X will be the name of the Artist): Count the total number of weekly chart appearances for the Songs that have X as the Featured Artist
+**Performance of Songs Featuring X (Total Weeks on Chart) (X will be the name of the Artist):** Count the total number of weekly chart appearances for the Songs that have X as the Featured Artist
 
-Artists Who Featured X (Total Weeks on Chart) (X will be the name of the Artist): Count the total number of weekly chart appearances for the Artists that have X as the Featured Artist
+**Artists Who Featured X (Total Weeks on Chart) (X will be the name of the Artist):** Count the total number of weekly chart appearances for the Artists that have X as the Featured Artist
 
 ## VII. Visualizations & Data Analysis
 ### 1. Apple Music
