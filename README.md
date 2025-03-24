@@ -29,7 +29,8 @@ Spotify: https://charts.spotify.com/charts/view/regional-vn-weekly/latest
 
 Zing MP3: https://zingmp3.vn/zing-chart-tuan/Bai-hat-Viet-Nam/IWZ9Z08I.html
 
-2. Orignal data columns: 
+2. Orignal data columns:
+
 a. **Song Name:** The name of the Song
 
 b. **Rank position (Integer):** The position of the Song in the week in number format
@@ -37,6 +38,7 @@ b. **Rank position (Integer):** The position of the Song in the week in number f
 c. **Artist Name (Merge):** The name of the Artist(s) of that song
 
 3. Add-in data:
+
 a. **Rank position (String):** The position of the song in the week in ordinal format
 
 b. **1st Artist:** The name of the 1st Artist of the song
