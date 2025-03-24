@@ -21,32 +21,35 @@ A new talent music artist wants to determine whether their music genre appeals t
 5. Making decisions to match requirements based on data.
 
 ## V. About the Datasets (Please review Data preparation.doc for more information)
--Data sources:
+1. Data sources:
+
 Apple Music: https://www.top-charts.com/songs/all-genres/vietnam/apple-music
+
 Spotify: https://charts.spotify.com/charts/view/regional-vn-weekly/latest
+
 Zing MP3: https://zingmp3.vn/zing-chart-tuan/Bai-hat-Viet-Nam/IWZ9Z08I.html
 
--Orignal data columns: 
-1. **Song Name:** The name of the Song
+2. Orignal data columns: 
+a. **Song Name:** The name of the Song
 
-2. **Rank position (Integer):** The position of the Song in the week in number format
+b. **Rank position (Integer):** The position of the Song in the week in number format
 
-3. **Artist Name (Merge):** The name of the Artist(s) of that song
+c. **Artist Name (Merge):** The name of the Artist(s) of that song
 
--Add-in data:
-1. **Rank position (String):** The position of the song in the week in ordinal format
+3. Add-in data:
+a. **Rank position (String):** The position of the song in the week in ordinal format
 
-2. **1st Artist:** The name of the 1st Artist of the song
+b. **1st Artist:** The name of the 1st Artist of the song
 
-3. **2nd Artist:** The name of the 2nd Artist of the song. There will be multiple columns for artists depending on the number of artists in the song.
+c. **2nd Artist:** The name of the 2nd Artist of the song. There will be multiple columns for artists depending on the number of artists in the song.
 
-4. **Genres:** The name of the Genres of the song
+d. **Genres:** The name of the Genres of the song
 
-5. **Date:** The starting day of the week varies between platforms
+e. **Date:** The starting day of the week varies between platforms
 
-6. **Solo vs Featuring:** To differentiate whether the song is a solo track or a collaboration
+f. **Solo vs Featuring:** To differentiate whether the song is a solo track or a collaboration
 
-7. **Vietnamese vs Foreign:** To differentiate whether the song is made by Vietnamese artist(s) or foreign artist(s)
+g. **Vietnamese vs Foreign:** To differentiate whether the song is made by Vietnamese artist(s) or foreign artist(s)
 
 Apple Music's weekly chart features 100 songs, Spotify's includes 200, and Zing MP3's chart consists of 40 songs.
 
