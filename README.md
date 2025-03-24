@@ -1,29 +1,86 @@
 # Data Analysis Project: Vietnamese Music Preference from 2018 to 2024
 ## I. Introduction
 A new talent music artist wants to determine whether their music genre appeals to Vietnamese listeners and identify suitable, well-known artists within the same genre for collaboration on their debut album. The Analysis Project will help that artist to understand the overall listener demographic, the best candidate to invite for the collaboration, what platform that the artist's song would perform the best.
+
 ## II. Project Objectives: 
 1. Analyze Vietnamese music preferences, including genre distribution and the influence of foreign versus local music.
 2. Identify the most dominant artists based on their appearances in the charts across all available platforms.
 3. Determine the songs that have held the first position multiple times.
 4. Identify potential artists for collaboration, and the best platform to release the song.
+
 ## III. Tools that were used in analysis
 1. Python/Visual Studio Code: To get the scripts for collecting raw data.
 2. Excel: To store and organize the data.
 3. Power BI: To create visualizations for the analysis.
+
 ## IV. Skills
 1. Knowing how websites are built to scrape data effectively.
 2. Writing good prompts to generate the right scripts.
 3. Cleaning data and solving problems along the way.
 4. Creating clear and impactful visualizations.
 5. Making decisions to match requirements based on data.
-## V. About the Datasets (Look at Data preparation.doc for more information)
-Orignal data: Song Name, Rank position (Num), Artist Name (Merge).
 
-Add-in data: 1st Artist, 2nd Artist, etc, Genres, Date, Solo vs Featuring, Vietnamese vs Foreign.
+## V. About the Datasets (Please review at Data preparation.doc for more information)
+-Orignal data columns: 
+Song Name: The name of the Song
+
+Rank position (Integer): The position of the Song in the week in number format
+
+Artist Name (Merge): The name of the Artist(s) of that song
+
+-Add-in data:
+Rank position (String): The position of the song in the week in ordinal format
+
+1st Artist: The name of the 1st Artist of the song
+
+2nd Artist: The name of the 2nd Artist of the song. There will be multiple columns for artists depending on the number of artists in the song.
+
+Genres: The name of the Genres of the song
+
+Date: The starting day of the week varies between platforms
+
+Solo vs Featuring: To differentiate whether the song is a solo track or a collaboration
+
+Vietnamese vs Foreign: To differentiate whether the song is made by Vietnamese artist(s) or foreign artist(s)
 
 Apple Music's weekly chart features 100 songs, Spotify's includes 200, and Zing MP3's chart consists of 40 songs.
 
-## VI. Visualizations & Data Analysis
+## VI. Metrics
+These will be the metrics used in the analyses:
+
+Vietnamese Music Genre Preferences (2018-2024): To show the changes in listeners' genre preferences from 2018 to 2024
+
+Solo vs. Featuring Songs (Total Weeks on Chart): Count the total number of Solo tracks and Featured tracks
+
+Vietnamese vs. Foreign Artists (Total Weeks on Chart): Count the total number of Vietnamese tracks and Foreign tracks
+
+10 Artists with the Most Appearances in the Top 100, 200, or 40 (Total Weeks on Chart): Count the total number of weekly chart appearances for the top 10 Artists
+
+10 Featured Artists with the Most Appearances in the Top 100, 200, or 40 (Total Weeks on Chart): Count the total number of weekly chart appearances for the top 10 Featured Artists
+
+10 Songs That Stayed in the Top 100, 200, or 40 the Longest (Total Weeks on Chart): Count the total number of weekly chart appearances for the top 10 Songs
+
+Vietnamese Music Genre Preferences of the Top Songs (2018-2024): To show the changes in listeners' genre preferences for the songs that reached the 1st position from 2018 to 2024
+
+Solo vs. Featuring Songs (Total of Weeks #1): Count the total number of Solo tracks and Featured tracks for the songs that reached the 1st position
+
+Vietnamese vs. Foreign Artists (Total Weeks #1): Count the total number of Vietnamese tracks and Foreign tracks for the songs that reached the 1st position
+
+Most Dominant Artists in the Charts (Total of Weeks at #1): Count the total number of weekly chart appearances for the Artists that reached the 1st position
+
+Most Dominant Featured Artists in the Charts (Total of Weeks at #1): Count the total number of weekly chart appearances for the Featured Artists that reached the 1st position
+
+Most Dominant Songs in the Charts (Total of Weeks at #1): Count the total number of weekly chart appearances for the Songs that reached the 1st position
+
+X's Song Performance (Total Weeks on Chart) (X will be the name of the Artist): Count the total number of weekly chart appearances for X's Songs
+
+Artists Featured in Xs's Songs (Total Weeks on Chart) (X will be the name of the Artist): Count the total number of weekly chart appearances for the Artists that featured in X's Songs
+
+Performance of Songs Featuring X (Total Weeks on Chart) (X will be the name of the Artist): Count the total number of weekly chart appearances for the Songs that have X as the Featured Artist
+
+Artists Who Featured X (Total Weeks on Chart) (X will be the name of the Artist): Count the total number of weekly chart appearances for the Artists that have X as the Featured Artist
+
+## VII. Visualizations & Data Analysis
 ### 1. Apple Music
 
 ### a.1. Overall Analysis Visualization 1
@@ -120,7 +177,7 @@ _-To identify the perfect candidate for collaboration, an individual analysis is
 
 -The most dominant song is Seven (explicit version) with 27 times at the top position, followed by Seven (normal version) in second place with 16 times. It wasn’t until the sixth position that a Vietnamese song appeared, Chúng ta của hiện tại by Sơn Tùng, with 12 times at number 1. The top 10 most dominant songs consisted of 8 K-pop tracks, highlighting the intense competition for the top weekly song on the Spotify platform.
 
--To identify the perfect candidate for collaboration, an individual analysis is required. Since inviting foreign artists for collaboration is unrealistic for a new artist, foreign artist data was filtered out. The final top five were Sơn Tùng M-TP, Đen, Da LAB, Mỹ Tâm, and Vũ. Among these five, Sơn Tùng was not a good fit for collaboration, as previously discussed. Despite being repetitive, Đen was selected again because he is the second most successful Vietnamese artist on Spotify. Da LAB was chosen because the band had a song that reached the top position five times and remained relevant for 329 weeks. Vũ was selected as the final candidate for individual analysis due to having a song that appeared in nearly every weekly chart since its release. Additionally, he has featured in many collaborations, unlike Mỹ Tâm, who primarily focuses on solo projects.
+_-To identify the perfect candidate for collaboration, an individual analysis is required. Since inviting foreign artists for collaboration is unrealistic for a new artist, foreign artist data was filtered out. The final top five were Sơn Tùng M-TP, Đen, Da LAB, Mỹ Tâm, and Vũ. Among these five, Sơn Tùng was not a good fit for collaboration, as previously discussed. Despite being repetitive, Đen was selected again because he is the second most successful Vietnamese artist on Spotify. Da LAB was chosen because the band had a song that reached the top position five times and remained relevant for 329 weeks. Vũ was selected as the final candidate for individual analysis due to having a song that appeared in nearly every weekly chart since its release. Additionally, he has featured in many collaborations, unlike Mỹ Tâm, who primarily focuses on solo projects._
 
 ### b.1. Individual Analysis Visualization 1
 
@@ -174,8 +231,7 @@ _-To identify the perfect candidate for collaboration, an individual analysis is
 
 -The most dominant featured artist is ACV, with 23 appearances at the top position. ACV is an excellent featured artist on Zing MP3, having helped five artists reach the number 1 spot.
 
--Although these artists seem not suitable for our artist since they are only thriving on Zing MP3, there will also be an individual analysis to ensure a fair judgment.
-The 3 prominent collaborators are Hương Ly, Châu Khải Phong, and Đạt G, as the other artists are either solo performers or prefer collaborating with producers.
+_-Although these artists seem not suitable for our artist since they are only thriving on Zing MP3, there will also be an individual analysis to ensure a fair judgment.The 3 prominent collaborators are Hương Ly, Châu Khải Phong, and Đạt G, as the other artists are either solo performers or prefer collaborating with producers._
  
 ### b.1. Individual Analysis Visualization 1
 
@@ -197,4 +253,6 @@ The 3 prominent collaborators are Hương Ly, Châu Khải Phong, and Đạt G, 
 
 ### b.3.3. Đạt G
 
--Đạt G seems to prefer working on solo tracks or collaborating with Du Uyen. His songs as the main artist did not perform as well as the other two. Despite that, when it comes to being a featured artist, he is the best among the three. 
+-Đạt G seems to prefer working on solo tracks or collaborating with Du Uyen. His songs as the main artist did not perform as well as the other two. Despite that, when it comes to being a featured artist, he is the best among the three.
+
+## VIII. Conclusion
