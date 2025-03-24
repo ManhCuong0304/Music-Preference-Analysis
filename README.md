@@ -97,7 +97,7 @@ Apple Music's weekly chart features 100 songs, Spotify's includes 200, and Zing 
 
 -tlinh is the most relevant featured artist in the chart, with songs featuring her appearing 350 times in the weekly most-listened songs chart.
 
--The song that stayed in the Top 100 the longest is **Lối Nhỏ** by Đen. It remained in the weekly chart for the entire years of 2021 and 2022, missing only 1 week in 2021 and 2023. However, in the latest year, it only stayed for 35 weeks.
+-The song that stayed in the Top 100 the longest is **Lối Nhỏ** by Đen with 252 appearances. It remained in the weekly chart for the entire years of 2021 and 2022, missing only 1 week in 2021 and 2023. However, in the latest year, it only stayed for 35 weeks.
 
 ### a.2. Overall Analysis Visualization 2
 
@@ -171,7 +171,7 @@ _-To identify the perfect candidate for collaboration, an individual analysis is
 
 -Aside from Korean artists, many foreign artists also held the No. 1 spot for several weeks. These findings suggest that while the overall preference is shifting toward local music, Vietnamese songs still face significant challenges in reaching the top.
 
--Artists from Korea dominated the weekly first position, especially BTS and the group members (Jung Kook and Jimin). Even the "King of V-pop" struggled to overtake the first position from that idol band. There is a hypothesis that the fans of this band were dedicated enough to consistently "farm stream counts." This hypothesis will be discussed in the **Bonus section**. 
+-Artists from Korea dominated the weekly first position, with BTS leading the charge at 55 times in the top spot. Among its members, Jung Kook’s solo projects outperformed BTS, achieving the highest number of first-place appearances at 60 times, while Jimin ranked fourth with 26 times at number one. Even the "King of V-pop" struggled to surpass this idol group. A possible explanation is that BTS fans were highly dedicated, consistently "farming stream counts" to maintain their favorite artists at the top. This hypothesis will be further explored in the Bonus section.
 
 -The most dominant featured artist is Latto, with 43 appearances across two versions of the same Jung Kook song.
 
@@ -227,7 +227,7 @@ _-To identify the perfect candidate for collaboration, an individual analysis is
 
 ### a.2.2. Analysis
 
--The most dominant artist on Zing MP3 is Jack-J97, who held the top position 26 times, while the most dominant song is Cắt đôi nỗi sầu by Tăng Duy Tân, which reached No. 1 a total of 12 times. 
+-The most dominant artist on Zing MP3 is Jack-J97, who held the top position 26 times, while the most dominant song is "Cắt đôi nỗi sầu" by Tăng Duy Tân, which reached No. 1 a total of 12 times. 
 
 -The most dominant featured artist is ACV, with 23 appearances at the top position. ACV is an excellent featured artist on Zing MP3, having helped five artists reach the number 1 spot.
 
@@ -256,3 +256,30 @@ _-Although these artists seem not suitable for our artist since they are only th
 -Đạt G seems to prefer working on solo tracks or collaborating with Du Uyen. His songs as the main artist did not perform as well as the other two. Despite that, when it comes to being a featured artist, he is the best among the three.
 
 ## VIII. Conclusion
+1. Analyze Vietnamese music preferences, including genre distribution and the influence of foreign versus local music.
+
+-Overall, aside from Zing MP3, which consists solely of Vietnamese songs' genres, the other two platforms have shown a shift in preference from foreign songs' genres to Vietnamese songs' genres.
+
+2. Identify the most dominant artists based on their appearances in the charts across all available platforms.
+
+-The artist with the most overall appearances on Apple Music is Taylor Swift, with 1,035 appearances. The most dominant artist is Sơn Tùng M-TP, who held the first position for 26 weeks.
+
+-The artist with the most overall appearances on Spotify is BTS, with 3,046 appearances. The most dominant artist is Jung Kook, who held the first position for 60 weeks.
+
+-The artist with the most overall appearances on Zing MP3 is Châu Khải Phong, with 363 appearances. The most dominant artist is Jack-J97, who held the first position for 26 weeks.
+
+3. Determine the songs that have held the first position multiple times.
+
+-"Lối Nhỏ" by Đen is the most relevant song on Apple Music with 252 appearances. The most dominant song is "Từng Quen" by Wren Evans and itsnk, that held the first position for 15 weeks.
+
+-"Lạ Lùng" by Vũ. is the most relevant song on Spotify with 351 appearances. The most dominant song is "Seven (Explicit Version)" by Jung Kook and Latto, that held the first position for 27 weeks.
+
+-"Cô Phòng" by Hồ Quang Hiếu is the most relevant song on Zing MP3 with 38 appearances. The most dominant song is "Cắt đôi nỗi sầu" by Tăng Duy Tân, that held the first position for 12 weeks.
+
+4. Identify potential artists for collaboration, and the best platform to release the song.
+
+-On the Apple Music platform, both Đen and tlinh are perfect choices for collaboration. Đen is known for working with young artists, while songs where tlinh is a Featured Artist tend to remain on the weekly charts for multiple weeks.
+
+-On the Spotify platform, both Đen and Vũ are excellent choices for collaboration. Đen's reason remains the same as on Apple Music, while Vũ has experience in promoting new artists, his collaboration with Madihu serves as solid evidence.
+
+-On the Zing MP3 platform, Đạt G is the best choice for collaboration due to his experience working with various artists and his strong reputation in the past.
